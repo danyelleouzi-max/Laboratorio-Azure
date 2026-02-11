@@ -1,8 +1,5 @@
 ## 🧠 3. Laboratório 3 – Prática 2 (Language Studio)
 
-Documente os detalhes desta prática em:  
-👉 [`notes/04-language-studio.md`](notes/04-language-studio.md)
-
 Passos gerais:
 
 1. No portal Azure: [https://portal.azure.com/#home](https://portal.azure.com/#home).  
@@ -39,3 +36,4 @@ No arquivo `04-language-studio.md`, registre:
 - Insights sobre possíveis usos (ex.: atendimento, análise de feedbacks, transcrição de reuniões etc.).  
 
 ---
+
