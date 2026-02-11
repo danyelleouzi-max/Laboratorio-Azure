@@ -1,3 +1,5 @@
+## 🗣️ 2. Laboratório 3 – Prática 1 (Speech Studio)
+
 ## Passos gerais:
 
 1. Acesse o **Speech Studio**: [https://speech.microsoft.com/portal](https://speech.microsoft.com/portal).  
